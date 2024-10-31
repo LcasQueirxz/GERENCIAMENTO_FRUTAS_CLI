@@ -43,4 +43,4 @@ Este projeto é um simples gerenciador de frutas que permite ao usuário adicion
 
 ## 📄 Console
 
-![terminal]()
+![terminal](https://github.com/LcasQueirxz/GERENCIAMENTO_FRUTAS_CLI/blob/main/image/Captura%20de%20Tela%202024-10-31%20%C3%A0s%2019.58.07.png)
