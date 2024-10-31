@@ -20,9 +20,6 @@ Para rodar este projeto, você precisará de:
 
 - **Versão 1.0**: Implementação inicial do projeto.
 
-## ✒️ Autores
-
-- **Nome do desenvolvedor**: Trabalho inicial - Desenvolvimento do projeto “Gerenciador de Frutas”.
 
 ## 📝 Descrição do Projeto
 
