@@ -1,4 +1,4 @@
-# Projeto Frutas
+# Projeto Frutas 🍇
 
 Este projeto é um simples gerenciador de frutas que permite adicionar, listar, modificar e remover frutas de uma lista.
 
